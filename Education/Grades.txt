@@ -1,3 +1,4 @@
 Diplom
 Bachelor
 Master
+PHD
